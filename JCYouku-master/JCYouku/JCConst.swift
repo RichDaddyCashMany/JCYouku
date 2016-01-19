@@ -17,7 +17,12 @@ public var HistorySearchKeyFileName: String {
 }
 // 拉伸图片
 public func resizeImage(img: UIImage?) -> UIImage {
-    return img!.stretchableImageWithLeftCapWidth(Int(img!.size.width / 2), topCapHeight: Int(img!.size.height / 2))
+    if img == nil {
+        print("Error:resizeImage received a wrong param")
+        return UIImage()
+    } else {
+        return img!.stretchableImageWithLeftCapWidth(Int(img!.size.width / 2), topCapHeight: Int(img!.size.height / 2))
+    }
 }
 
 

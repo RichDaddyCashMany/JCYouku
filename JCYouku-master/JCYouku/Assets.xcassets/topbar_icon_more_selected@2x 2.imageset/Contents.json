@@ -2,22 +2,16 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "topbar_icon_more_selected@2x 2.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "topbar_icon_more_normal@2x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
       "scale" : "3x"
-    },
-    {
-      "idiom" : "universal",
-      "filename" : "topbar_icon_more_normal@2x-1.png",
-      "unassigned" : true,
-      "scale" : "2x"
     }
   ],
   "info" : {
