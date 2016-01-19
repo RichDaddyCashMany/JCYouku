@@ -1,0 +1,53 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "game_go-2.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go@2x-2.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go@3x-1.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go-1.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go@2x-1.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go@2x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "game_go@3x.png",
+      "unassigned" : true,
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
